@@ -1,0 +1,3 @@
+discord.py
+PYTHON_VERSION=3.10
+python Titan.py
